@@ -1,3 +1,4 @@
+$(document).ready(function(){
 
 function getIt() {
   $('p').on('click', function() {
@@ -13,6 +14,6 @@ function frameIt() {
 
 
 
-// call functions here
+
 
 });
